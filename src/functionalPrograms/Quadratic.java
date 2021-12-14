@@ -12,5 +12,5 @@ public class Quadratic {
 		double x2 = (-b - Math.sqrt(delta))/(2*a);
 		System.out.println("the roots of the quadratic equations are : "+x1+","+x2);
 	}
-
+	
 }
